@@ -78,3 +78,10 @@ Indices and tables
 sejong link `sejong university`_
 
 .. _sejong university: http://www.sejong.ac.kr/
+
+Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_sejong
+
+.. rubric:: Footnotes
+
+.. [#f1] Text of the first Footnote
+.. [#f2] Text of the secont footnote

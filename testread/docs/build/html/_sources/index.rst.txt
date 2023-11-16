@@ -72,3 +72,6 @@ Indices and tables
    Beware killer rabbits!
 .. note::
    Beware killer rabbits!
+
+'click here <https://sejong.ac.kr>'_ to view sejong website
+

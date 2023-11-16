@@ -79,7 +79,9 @@ sejong link `sejong university`_
 
 .. _sejong university: http://www.sejong.ac.kr/
 
-Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_sejong
+
+
+Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_ sejong
 
 .. rubric:: Footnotes
 

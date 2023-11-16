@@ -73,8 +73,8 @@ Indices and tables
 .. note::
    Beware killer rabbits!
 
-'click here <https://sejong.ac.kr>'_ to view sejong website
+`click here <https://sejong.ac.kr>`_ to view sejong website
 
-sejong link 'sejong university'_
+sejong link `sejong university`_
 
 .. _sejong university: http://www.sejong.ac.kr/
